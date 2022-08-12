@@ -1,3 +1,4 @@
 node_modules
+node_module
 out
 yarn.lock
