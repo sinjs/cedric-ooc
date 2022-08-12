@@ -1,0 +1,14 @@
+{
+  "name": "cedricooc",
+  "version": "1.0.0",
+  "description": "Cedric out of context in his natural habitat.",
+  "main": "scripts/start.js",
+  "author": "sini",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve out/"
+  },
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
