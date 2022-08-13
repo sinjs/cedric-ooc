@@ -6,7 +6,8 @@
   "author": "sini",
   "license": "MIT",
   "scripts": {
-    "start": "serve out/"
+    "start": "serve out/",
+    "build": "node scripts/build.js"
   },
   "devDependencies": {
     "serve": "^14.0.1"
