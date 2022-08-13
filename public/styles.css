@@ -1,5 +1,21 @@
 @import url("normalize.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;800&display=swap');
 
 img {
   max-width: 100vw;
+}
+
+.img {
+  border-top: #fff 1px solid;
+  padding: 5px;
+}
+
+body {
+  color: #fff;
+  background-color: #36393f;
+  font-family: Poppins,Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1 {
+  font-weight: 800;
 }
