@@ -72,12 +72,14 @@ async function main() {
   console.log("[🌐] Package: Create image array");
 
   let htmlImages = "";
+  let imageCount = 0;
 
   for (const img of images) {
+    imageCount++;
     htmlImages += `
     <div class="img">
       <img src="${img.name}" alt="" srcset="">
-      <p>Image: ${img.name}</p>
+      <p>Image ${imageCount}: ${img.name}</p>
     </div>
     `;
   }
