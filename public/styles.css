@@ -1,0 +1,5 @@
+@import url("normalize.css");
+
+img {
+  max-width: 100vw;
+}
