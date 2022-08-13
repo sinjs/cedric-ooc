@@ -87,6 +87,7 @@ async function main() {
   console.log("[🌐] Package: Add images to HTML");
 
   index = index.replaceAll("$images", htmlImages);
+  index = index.replaceAll("$imageCount", imageCount);
 
   console.log("[🌐] Package: Write index.html");
 
