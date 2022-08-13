@@ -1,4 +1,4 @@
-<center>
+<div style="text-align=center">
 
 # Cedric out of Context
 
@@ -8,7 +8,7 @@
 
 Also I need a stylesheet for this, please someone make one I am too lazy :sintorl:
 
-</center>
+</div>
 
 ---
 
