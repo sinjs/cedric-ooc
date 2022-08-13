@@ -2,6 +2,8 @@
 
 ### This is the biggest collection of cedric's moments where he says the weirdest things in his natural habitat: the discord chats.
 
+Also I need a stylesheet for this, please someone make one I am too lazy :sintorl:
+
 ---
 
 ## Submitting
