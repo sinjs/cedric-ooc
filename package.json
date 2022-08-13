@@ -2,14 +2,16 @@
   "name": "cedricooc",
   "version": "1.0.0",
   "description": "Cedric out of context in his natural habitat.",
-  "main": "scripts/start.js",
+  "main": "scripts/build.js",
   "author": "sini",
   "license": "MIT",
   "scripts": {
     "start": "serve out/",
-    "build": "node scripts/build.js"
+    "build": "node scripts/build.js",
+    "dev": "yarn run serve ./out & yarn run nodemon scripts/build.js"
   },
   "devDependencies": {
+    "nodemon": "^2.0.19",
     "serve": "^14.0.1"
   }
 }
